@@ -24,3 +24,8 @@ Navegação Simples: Link para "Já possui conta? LOG IN" no rodapé, e uma barr
 Layout Responsivo: Ajuste dinâmico dos elementos e tamanhos de fonte para garantir uma boa visualização em qualquer dispositivo.
 
 Imagens de Fundo: Utilização de uma imagem de fundo estática para um toque visual premium.
+
+
+
+
+<img src="https://github.com/ViniFerAlbuquerque/template2-login-figma/blob/main/assets/template2.png?raw=true">
