@@ -29,5 +29,20 @@ Imagens de Fundo: Utilização de uma imagem de fundo estática para um toque vi
 
 
 <img src="https://github.com/ViniFerAlbuquerque/template2-login-figma/blob/main/assets/template2.png?raw=true">
+Visualização do template em um desktop.
 <br>
+<hr>
 <img src="https://github.com/ViniFerAlbuquerque/template2-login-figma/blob/main/assets/template2-responsivo.png?raw=true">
+Visualização adaptada para dispositivos móveis.
+
+ <h2>Tecnologias Utilizadas<h2>
+Este projeto é construído com as tecnologias fundamentais da web:
+
+Frontend:
+
+HTML5 (Estrutura Semântica da Página)
+CSS3 (Estilização, Responsividade, Flexbox)
+Ferramentas:
+
+Figma (Para o design de referência do template)
+Visual Studio Code (Ambiente de Desenvolvimento Integrado)
