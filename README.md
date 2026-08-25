@@ -29,3 +29,5 @@ Imagens de Fundo: Utilização de uma imagem de fundo estática para um toque vi
 
 
 <img src="https://github.com/ViniFerAlbuquerque/template2-login-figma/blob/main/assets/template2.png?raw=true">
+<br>
+<img src="https://github.com/ViniFerAlbuquerque/template2-login-figma/blob/main/assets/template2-responsivo.png?raw=true">
